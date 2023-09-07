@@ -1,0 +1,1 @@
+Aqui, eu vou colocar alguns códigos pra aplicar conceitos básicos. Talvez depois separe em subpastas.
