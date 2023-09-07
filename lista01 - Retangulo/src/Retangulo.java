@@ -1,3 +1,4 @@
+import java.lang.Math;
 public class Retangulo {
     private double comprimento, largura;
      public Retangulo(double comprimento, double largura){
@@ -20,6 +21,10 @@ public class Retangulo {
 
      public double perimetro(){
      return 2 * (comprimento + largura);
+     }
+
+     public double diagonal(){
+         return Math.sqrt(Math.pow(comprimento, 2) + Math.pow(largura, 2));
      }
 
 
