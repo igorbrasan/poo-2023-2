@@ -1,11 +1,13 @@
 public class Automovel {
     private String combustivel, fabricante, modelo;
 
+
     public Automovel(String combustivel, String fabricante, String modelo){
         this.combustivel = combustivel;
         this.fabricante = fabricante;
         this.modelo = modelo;
     }
+
 
     private float consumoMedio (String combustivel){
         float consumo;
