@@ -1,1 +1,3 @@
 Se esse arquivo foi pro gh, consegui comitar usando o manjaro. Sucesso! :D
+
+Teste 02
