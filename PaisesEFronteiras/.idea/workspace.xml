@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77311db9-d9a2-4f77-a12c-06a32b976624" name="Changes" comment="GO">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaisesEFronteiras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Continente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/Impressora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/lista01 - Impressora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/src/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex01.  Impressora/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/Automovel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/lista01 - Automovel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/src/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex02. Automovel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/Readme.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/lista01 - Retangulo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex03. Retangulo/src/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/lista01 - Animais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex04.  Animais/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/lista01 - Aluno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex05. Aluno/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/lista01 - ControleDeVoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista01/Ex06. ControleDeVoo/src/Voo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/lista02 - televisores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/out/production/lista02 - televisores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/out/production/lista02 - televisores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/out/production/lista02 - televisores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/out/production/lista02 - televisores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/out/production/lista02 - televisores/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex01. Televisores/out/production/lista02 - televisores/lista02 - televisores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex04. Professor/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Ex04. Professor/professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lista02/Lista 02 POO - Sobrecarga.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/lista01 - Aluno.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Aluno/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/lista01 - Animais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Animais/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/Automovel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/lista01 - Automovel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/src/Automovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Automovel/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/lista01 - ControleDeVoo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - ControleDeVoo/src/Voo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/Impressora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/lista01 - Impressora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/src/Impressora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Impressora/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/Readme.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/lista01 - Retangulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01 - Retangulo/src/Retangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - professor/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - professor/professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/lista02 - televisores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/out/production/lista02 - televisores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/out/production/lista02 - televisores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/out/production/lista02 - televisores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/out/production/lista02 - televisores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/out/production/lista02 - televisores/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista02/lista02 - televisores/out/production/lista02 - televisores/lista02 - televisores.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VgADfSF1imm5APQhDiJMGDMlrb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/igorbrasan/Projetos/poo-2023-2/PaisesEFronteiras/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77311db9-d9a2-4f77-a12c-06a32b976624" name="Changes" comment="" />
+      <created>1695247234872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695247234872</updated>
+      <workItem from="1695247235714" duration="4457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="GO" />
+    <option name="LAST_COMMIT_MESSAGE" value="GO" />
+  </component>
+</project>
