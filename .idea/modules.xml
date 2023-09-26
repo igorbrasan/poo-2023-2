@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/contaCorrente/contaCorrente.iml" filepath="$PROJECT_DIR$/contaCorrente/contaCorrente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista01 - Aluno/lista01 - Aluno.iml" filepath="$PROJECT_DIR$/lista01 - Aluno/lista01 - Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista01 - Animais/lista01 - Animais.iml" filepath="$PROJECT_DIR$/lista01 - Animais/lista01 - Animais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista01 - Automovel/lista01 - Automovel.iml" filepath="$PROJECT_DIR$/lista01 - Automovel/lista01 - Automovel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista01 - ControleDeVoo/lista01 - ControleDeVoo.iml" filepath="$PROJECT_DIR$/lista01 - ControleDeVoo/lista01 - ControleDeVoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista01 - Impressora/lista01 - Impressora.iml" filepath="$PROJECT_DIR$/lista01 - Impressora/lista01 - Impressora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista01 - Retangulo/lista01 - Retangulo.iml" filepath="$PROJECT_DIR$/lista01 - Retangulo/lista01 - Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo.iml" filepath="$PROJECT_DIR$/poo.iml" />
+    </modules>
+  </component>
+</project>
