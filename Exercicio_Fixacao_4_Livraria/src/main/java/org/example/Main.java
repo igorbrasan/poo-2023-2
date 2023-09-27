@@ -28,10 +28,7 @@ class Livraria{
     }
 
     public boolean Comprarlivro(Livro livro, int quantidade){
-        for (livro:
-             livros) {
 
-        }
         return true;
     }
 }
