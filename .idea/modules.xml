@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/contaCorrente/contaCorrente.iml" filepath="$PROJECT_DIR$/contaCorrente/contaCorrente.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista01 - Aluno/lista01 - Aluno.iml" filepath="$PROJECT_DIR$/lista01 - Aluno/lista01 - Aluno.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista01 - Animais/lista01 - Animais.iml" filepath="$PROJECT_DIR$/lista01 - Animais/lista01 - Animais.iml" />
