@@ -34,6 +34,6 @@ public class Main {
                 return;
         }
         System.out.println(num1+" "+operator+" "+num2+": "+ result);
-        System.out.printf("%.02f + ")
+        System.out.printf("%.02f %s %.02f = %.02f", num1, operator, num2, result);
     }
     }

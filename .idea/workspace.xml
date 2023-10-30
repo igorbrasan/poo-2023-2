@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4347b7f8-df5e-48f2-8ac4-080e53038ce8" name="Changes" comment="Reconfigurations.">
-      <change afterPath="$PROJECT_DIR$/Calculadora/Calculadora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora/src/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora/src/Main.java" afterDir="false" />
+    <list default="true" id="4347b7f8-df5e-48f2-8ac4-080e53038ce8" name="Changes" comment="calculator">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/src/main/java/org/example/CategoriaLivroDidatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/src/main/java/org/example/Livraria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/src/main/java/org/example/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/src/main/java/org/example/LivroDidatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_de_Fixacao_5/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -72,11 +77,25 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/igor-/Documents/GitHub/poo-2023-2/Calculadora/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/igor-/Documents/GitHub/poo-2023-2/Exercicio_de_Fixacao_5/src/main/java/org/example/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Calculadora" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,7 +105,10 @@
       <option name="presentableId" value="Default" />
       <updated>1695300497298</updated>
       <workItem from="1695300498405" duration="149000" />
-      <workItem from="1697239350617" duration="2338000" />
+      <workItem from="1697239350617" duration="2965000" />
+      <workItem from="1697290545534" duration="502000" />
+      <workItem from="1697466780480" duration="76000" />
+      <workItem from="1698674254273" duration="2626000" />
     </task>
     <task id="LOCAL-00001" summary="Reconfigurations.">
       <option name="closed" value="true" />
@@ -96,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695300547708</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="calculator">
+      <option name="closed" value="true" />
+      <created>1697243963287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697243963287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +149,7 @@
       <path value="$PROJECT_DIR$/lista02/Ex02. QuitacaoIPTU" />
     </ignored-roots>
     <MESSAGE value="Reconfigurations." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reconfigurations." />
+    <MESSAGE value="calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator" />
   </component>
 </project>
