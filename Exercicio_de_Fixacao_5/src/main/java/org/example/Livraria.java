@@ -27,7 +27,7 @@ public class Livraria {
         return resultado;
     }
 
-    public String listaLivros(){
+    public void listaLivros(){
         for (Livro livro:
              livros) {
             System.out.println(livro.toString());
